@@ -1,6 +1,6 @@
 # Escudos del ejército romano
 
-![Entrada del programa](images/tiempoMemoria.png)
+![Tiempo y memoria a consumir máximos](images/tiempoMemoria.png)
 
 Son famosas las formaciones que el antiguo ejército romano utilizaba para entrar en batalla. En esas formaciones, los legionarios se agrupaban en una figura geométrica (normalmente un rectángulo) y protegían tanto los flancos como la parte superior utilizando escudos. Los legionarios que ocupaban posiciones interiores cubrían la parte superior colocando el escudo sobre su cabeza, mientras que los que ocupaban los flancos llevaban dos y hasta tres escudos: uno para proteger la parte superior y uno o dos escudos (si estaban en la esquina) para proteger los laterales. Con esta formación, todos los legionarios quedaban protegidos por los escudos y eran muy difíciles de vencer.
 
@@ -13,7 +13,7 @@ Nuestro general, después de hacer muchos cálculos, decidió que la mejor maner
 
 Por ejemplo, si el número de legionarios en el ejército era 35, la manera utilizada por el general para hacer la formación consistía en un cuadrado de 25 legionarios (5×5), otro de 9 (3×3) y otro de 1 (1×1):
 
-![Entrada del programa](images/formacionesRomanas.png)
+![Formaciones ejército romano](images/formacionesRomanas.png)
 
 Esta formación requería un total de 71 escudos.
 
